@@ -20,10 +20,11 @@ body {
     grid-template-rows: repeat(4, 1fr);
     gap: 10px;
     padding: 10px;
-    background: #111;
+    background: #fff;
 }
 
 .container div {
+    background: #fff;
     border: 2px solid #111;
     display: flex;
     align-items: center;
@@ -31,7 +32,6 @@ body {
     font-size: 2rem;
     font-weight: bold;
     color: #111;
-    background: #fff;
 }
 
 .wide {
@@ -43,30 +43,30 @@ body {
 }
 
 .red {
-    background: #d62828 !important;
+    background: #d62828;
     color: #fff;
 }
 
 .yellow {
-    background: #f4d35e !important;
+    background: #f4d35e;
 }
 
 .blue {
-    background: #1d4ed8 !important;
+    background: #1d4ed8;
     color: #fff;
 }
 
 .green {
-    background: #2e8b57 !important;
+    background: #2e8b57;
     color: #fff;
 }
 
 .orange {
-    background: #ff8c00 !important;
+    background: #ff8c00;
     color: #fff;
 }
 
 .purple {
-    background: #7b2cbf !important;
+    background: #7b2cbf;
     color: #fff;
 }

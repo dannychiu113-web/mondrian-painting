@@ -24,7 +24,6 @@ body {
 }
 
 .container div {
-    background: #fff;
     border: 2px solid #111;
     display: flex;
     align-items: center;
